@@ -141,3 +141,7 @@ a {
     font-size: small;
     margin: 10px;
 }
+
+#lastItem {
+    margin-right: 25px;
+}
